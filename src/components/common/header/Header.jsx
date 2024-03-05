@@ -14,7 +14,7 @@ const Header = () => {
           <nav>
             <ul className={navbar ? "navbar" : "flex"} onClick={() => setNavbar(false)}>
               <li>
-                <Link to='/'>Главная </Link>
+                <Link to='/'>Главная s </Link>
               </li>
               <li>
                 <Link to='/culture'>Культура</Link>
