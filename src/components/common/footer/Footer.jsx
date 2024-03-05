@@ -8,49 +8,49 @@ const Footer = () => {
         <div className='container'>
           <div className='box logo'>
             <img src='../images/tech-logo-footer.png' alt='' />
-            <p>Busan is an amazing magazine Blogger theme that is easy to customize for your needs</p>
+            <p>Busan — это потрясающая тема для журналов Blogger, которую легко настроить под свои нужды.</p>
             <i className='fa fa-envelope'></i>
-            <span> hello@beautiful.com </span> <br />
+            <span> iskenderbeishenov1@gmail.com </span> <br />
             <i className='fa fa-headphones'></i>
-            <span> +91 60521488</span>
+            <span> +996702550979</span>
           </div>
           <div className='box'>
-            <h3>SPORT</h3>
+            <h3>Спорт</h3>
             <div className='item'>
               <img src='../images/hero/hero1.jpg' alt='' />
-              <p>Google To Boost Android Security In Few Days</p>
+              <p>Google повысит безопасность Android за несколько дней</p>
             </div>
             <div className='item'>
               <img src='../images/hero/hero2.jpg' alt='' />
-              <p>Cespedes play the winning Baseball Game</p>
+              <p>Сеспедес играет в победный бейсбольный матч</p>
             </div>
           </div>
           <div className='box'>
-            <h3>CRICKET</h3>
+            <h3>Крикет</h3>
             <div className='item'>
               <img src='../images/hero/hero3.jpg' alt='' />
-              <p>US Promises to give Intel aid to locate the soldiers</p>
+              <p>США обещают оказать Intel помощь в поиске солдат</p>
             </div>
             <div className='item'>
               <img src='../images/hero/hero1.jpg' alt='' />
-              <p>Renewable energy dead as industry waits for Policy</p>
+              <p>Возобновляемая энергетика мертва, поскольку промышленность ждет политики</p>
             </div>
           </div>
           <div className='box'>
-            <h3>LABELS</h3>
+            <h3>Этикет</h3>
             {/*<i className='fa fa-chevron-right'></i>*/}
             <ul>
               <li>
-                <span>Boxing</span> <label>(5)</label>
+                <span>Заниматься боксом</span> <label>(5)</label>
               </li>
               <li>
-                <span>Fashion</span> <label>(6)</label>
+                <span>Мода</span> <label>(6)</label>
               </li>
               <li>
-                <span>Health</span> <label>(7)</label>
+                <span>Здоровье</span> <label>(7)</label>
               </li>
               <li>
-                <span>Nature</span> <label>(9)</label>
+                <span>Природа</span> <label>(9)</label>
               </li>
             </ul>
           </div>
@@ -58,9 +58,9 @@ const Footer = () => {
       </footer>
       <div className='legal  '>
         <div className='container flexSB'>
-          <p>© all rights reserved</p>
+          <p>© все права защищеныsad</p>
           <p>
-            made with <i className='fa fa-heart'></i> by gorkhcoder
+          сделано с <i className='fa fa-heart'></i> by gorkhcoder
           </p>
         </div>
       </div>

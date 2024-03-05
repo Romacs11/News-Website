@@ -14,25 +14,25 @@ const Header = () => {
           <nav>
             <ul className={navbar ? "navbar" : "flex"} onClick={() => setNavbar(false)}>
               <li>
-                <Link to='/'>Home</Link>
+                <Link to='/'>Главная s </Link>
               </li>
               <li>
-                <Link to='/culture'>Culture</Link>
+                <Link to='/culture'>Культура</Link>
               </li>
               <li>
-                <Link to='/politics'>Politics</Link>
+                <Link to='/politics'>Политика</Link>
               </li>
               <li>
-                <Link to='/memes'>Memes</Link>
+                <Link to='/memes'>Мемы</Link>
               </li>
               <li>
-                <Link to='/sports'>Sports</Link>
+                <Link to='/sports'>Спорт</Link>
               </li>
               <li>
-                <Link to='/boxed'>Boxed</Link>
+                <Link to='/boxed'>Общий</Link>
               </li>
               <li>
-                <Link to='/reviews'>Reviews</Link>
+                <Link to='/reviews'>Отзывы </Link>
               </li>
             </ul>
             <button className='barIcon' onClick={() => setNavbar(!navbar)}>

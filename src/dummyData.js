@@ -2,7 +2,7 @@ export const hero = [
   {
     id: 1,
     cover: "../images/hero/hero1.jpg",
-    catgeory: "featured",
+    catgeory: "Избраное",
     title: "Google To Boost Android Security In Few Days",
     authorName: "Salman",
     authorImg: "../images/author.jpg",
@@ -37,7 +37,7 @@ export const hero = [
   {
     id: 2,
     cover: "../images/hero/hero2.jpg",
-    catgeory: "sport",
+    catgeory: "Спорт",
     title: "More than billion football fans attend Brazil world cup",
     authorName: "alex",
     authorImg: "../images/author.jpg",
@@ -72,7 +72,7 @@ export const hero = [
   {
     id: 3,
     cover: "../images/hero/hero3.jpg",
-    catgeory: "fashion",
+    catgeory: "Мода",
     title: "No escaping new high tech speed cameras",
     authorName: "rina",
     authorImg: "../images/author.jpg",
@@ -107,7 +107,7 @@ export const hero = [
   {
     id: 4,
     cover: "../images/hero/hero4.jpg",
-    catgeory: "technology",
+    catgeory: "Технологии",
     title: "Emma Watson stands up for Turkish women",
     authorName: "sunil",
     authorImg: "../images/author.jpg",
