@@ -8,32 +8,38 @@ const Footer = () => {
         <div className='container'>
           <div className='box logo'>
             <img src='../images/tech-logo-footer.png' alt='' />
-            <p>Busan — это потрясающая тема для журналов Blogger, которую легко настроить под свои нужды.</p>
+            <p>Обращайтесь при возникновении вопросов. Мы обязательно ответим!.</p>
             <i className='fa fa-envelope'></i>
             <span> iskenderbeishenov1@gmail.com </span> <br />
-            <i className='fa fa-headphones'></i>
-            <span> +996702550979</span>
+            <i className='fa fa-envelope'></i>
+            <span> erjankerimkulov2005@gmail.com</span> <br />
+            <i className='fa fa-envelope'></i>
+            <span> zylkycievtilek@gmail.com </span> 
+
+
+  
+
           </div>
           <div className='box'>
-            <h3>Спорт</h3>
+            <h3>Политика</h3>
             <div className='item'>
-              <img src='../images/hero/hero1.jpg' alt='' />
-              <p>Google повысит безопасность Android за несколько дней</p>
+              <img src='https://data.vb.kg/image/medium/2024-03-17_13-18-52_655720.jpg' alt='' />
+              <p>Садыр Жапаров в день памяти Аксыйских событий обратился к кыргызстанцам</p>
             </div>
             <div className='item'>
-              <img src='../images/hero/hero2.jpg' alt='' />
-              <p>Сеспедес играет в победный бейсбольный матч</p>
+              <img src='https://data.vb.kg/image/big/2024-03-16_15-04-06_841306.jpg' alt='' />
+              <p>Ташиев и Ятимов обсудили вопросы делимитации кыргызско-таджикской границы</p>
             </div>
           </div>
           <div className='box'>
-            <h3>Крикет</h3>
+            <h3>Экономика</h3>
             <div className='item'>
-              <img src='../images/hero/hero3.jpg' alt='' />
-              <p>США обещают оказать Intel помощь в поиске солдат</p>
+              <img src='https://www.energo-es.kg/assets/pages/94f3f2a06a/toktogul-reservoir.jpg' alt='' />
+              <p>Токтогульское водохранилище. Объем упал до 7,3 миллиарда кубометров</p>
             </div>
             <div className='item'>
-              <img src='../images/hero/hero1.jpg' alt='' />
-              <p>Возобновляемая энергетика мертва, поскольку промышленность ждет политики</p>
+              <img src='https://img.freepik.com/free-photo/kyrgyzstan-metallic-flag-textured-flag-grunge-flag_559531-11221.jpg' alt='' />
+              <p>Сумма венчурных сделок в Кыргызстане за 2023 год составила $1,1 миллиона</p>
             </div>
           </div>
           <div className='box'>
