@@ -1,11 +1,22 @@
-import React from "react"
+import React, { useState } from "react"
+import { hero } from "../../dummyData"
+import "./../../components/home/hero/hero.css"
+import Card from "../home/hero/Card"
 
 const Culture = () => {
+  const [items, setIems] = useState(hero)
+
   return (
     <>
-      <section className='culture'>
-        <div className='container paddingTB'>
-          <h1>Culture Sections</h1>
+      <section className='hero'>
+        <div className='container'>
+          {items.map((item) => {
+            return (
+              <>
+                <Card key={item.id} item={item} />
+              </>
+            )
+          })}
         </div>
       </section>
     </>

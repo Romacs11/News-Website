@@ -13,26 +13,14 @@ const Header = () => {
         <div className='container paddingSmall'>
           <nav>
             <ul className={navbar ? "navbar" : "flex"} onClick={() => setNavbar(false)}>
-              <li>
-                <Link to='/'>Главная s </Link>
-              </li>
-              <li>
-                <Link to='/culture'>Культура</Link>
-              </li>
-              <li>
-                <Link to='/politics'>Политика</Link>
-              </li>
-              <li>
-                <Link to='/memes'>Мемы</Link>
-              </li>
-              <li>
-                <Link to='/sports'>Спорт</Link>
-              </li>
-              <li>
-                <Link to='/boxed'>Общий</Link>
-              </li>
-              <li>
-                <Link to='/reviews'>Отзывы </Link>
+              <li style={{display:'flex',}}>
+                <li><a href="/">Главная</a></li>
+                <li><a href="/culture">Культура</a></li>
+                <li><a href="/politics">Политика</a></li>
+                <li><a href="/memes">Мемы</a></li>
+                <li><a href="/sports">Спорт</a></li>
+                <li><a href="/boxed">Общий</a></li>
+                <li><a href="/reviews">Отзывы</a></li>
               </li>
             </ul>
             <button className='barIcon' onClick={() => setNavbar(!navbar)}>

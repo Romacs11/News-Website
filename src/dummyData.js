@@ -270,11 +270,11 @@ export const popular = [
   {
     id: 10,
     catgeory: "fun",
-    title: "Picks For This Month’s Best Instagram Shots",
-    date: "19. February 2022",
+    title: "В Кыргызстан прилетел чемпион мира по боксу",
+    date: "19. March 2024",
     comments: 0,
-    cover: "../images/popular/pop10.jpg",
-    desc: "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis Theme natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus. Phasellus viverra nulla ut metus varius laoreet. Quisque rutrum. Aenean imperdiet. Etiam ultricies nisi vel augue. Curabitur ullamcorper ultricies nisi. Nam eget dui. Etiam rhoncus. Maecenas tempus, tellus eget condimentum rhoncus, sem quam semper libero, sit amet adipiscing sem neque sed ipsum. Nam quam nunc, blandit vel, luctus pulvinar, hendrerit id, lorem. Maecenas nec odio et ante tincidunt tempus. Donec vitae sapien ut libero venenatis faucibus. Nullam quis ante. Etiam sit amet orci eget eros faucibus tincidunt. Duis leo. Sed fringilla mauris sit amet nibh. Donec sodales sagittis magna.",
+    cover: "https://st-0.akipress.org/cdn-st-0/qdI/H/1950072.9aa1ef2e4ca6c1451e05f0caeed3cbf8.jpg",
+    desc: "судья международной категории Мукаш Ырсалиев, заслуженный мастер спорта по боксу, трехкратный чемпион России (1996, 1997, 1998) и чемпион мира 2001 года станет почетным гостем чемпионата Кыргызстана среди молодежи.«Андрей Гоголев привез специальный кубок для Амантура Джумаева, который в 2023 году выиграл чемпионат мира среди юношей в Ереване. Тот факт, что чемпион мира среди взрослых лично поздравляет чемпиона мира среди юношей из Кыргызстана — это большой толчок для развития бокса в стране», - рассказывает М.Ырсалиев.    ",
   },
   {
     id: 11,
